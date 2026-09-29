@@ -1,0 +1,2 @@
+# Ai
+jpg or png
